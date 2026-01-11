@@ -77,7 +77,7 @@ L’objectif est de concevoir un **système complet de gestion des congés** pou
 ---
 
 ## 👩‍🎓 Auteure
-**Kaoutar Maliki (Touta)**  
+**Kaoutar Maliki**  
 Master 2 Ingénierie de la Décision  
 📍 Maroc  
 🔗 LinkedIn : *à ajouter*  
